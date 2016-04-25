@@ -73,6 +73,7 @@
 }
 
 .action-link {
+    text-transform: uppercase;
     font-size: 14px;
     bottom: 0;
     vertical-align: bottom;
