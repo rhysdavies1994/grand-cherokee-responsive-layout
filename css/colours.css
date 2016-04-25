@@ -1,0 +1,21 @@
+.white-text {
+    color: white;
+}
+
+.black-text {
+    color: black;
+}
+
+.dark-grey-text {
+    color: rgb(70, 70, 70);
+}
+
+.yellow-background {
+    background: rgb(255, 183, 2);
+    border: rgb(255, 183, 2);
+}
+
+.yellow-text {
+    color: rgb(255, 183, 2);
+}
+

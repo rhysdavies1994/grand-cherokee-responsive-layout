@@ -1,0 +1,40 @@
+/*Vehicle*/
+#vehicle-section {
+    background: rgb(0, 0, 0);
+    height: 775px;
+}
+
+#vehicle-terms-and-conditions {
+    font-family: Arial;
+    font-size: 10px;
+}
+
+
+/*Features*/
+#features-section {
+    background: rgb(223, 223, 223);
+    height: 775px;
+}
+
+
+/*Actions*/
+#actions-section {
+    background: yellow;
+    height: 450px
+}
+
+.action-item {
+
+}
+
+.action-title {
+
+}
+
+.action-summary {
+
+}
+
+.action-link {
+    text-transform: uppercase;
+}
