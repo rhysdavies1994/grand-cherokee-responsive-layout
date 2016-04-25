@@ -2,6 +2,15 @@
 #vehicle-section {
     background: rgb(0, 0, 0);
     height: 775px;
+    padding-top: 50px;
+}
+
+#vehicle-title {
+
+}
+
+#vehicle-description {
+    padding-bottom: 20px;
 }
 
 #vehicle-terms-and-conditions {
@@ -9,32 +18,56 @@
     font-size: 10px;
 }
 
-
 /*Features*/
 #features-section {
     background: rgb(223, 223, 223);
     height: 775px;
+    padding-top: 50px;
 }
 
+#features-title {
+    padding-left: 20px;
+}
+
+#features-list > li {
+    padding-bottom: 10px;
+}
 
 /*Actions*/
 #actions-section {
-    background: yellow;
-    height: 450px
+    background: rgb(60, 76, 86);
+    min-height: 450px;
+    padding-top: 100px;
+    height: 100%;
+
 }
 
 .action-item {
+    text-align: center;
+    min-height: 250px;
+    position: relative;
+}
 
+.action-icon {
+    padding-bottom: 20px;
 }
 
 .action-title {
-
+    font-size: 24px;
+    padding-bottom: 10px;
 }
 
 .action-summary {
-
+    font-size: 14px;
+    padding-bottom: 10px;
 }
 
 .action-link {
     text-transform: uppercase;
+    font-size: 14px;
+    vertical-align: bottom;
+    bottom: 0;
+    position: absolute;
+    text-align: center;
+    width: 100%;
 }
