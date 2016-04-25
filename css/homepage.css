@@ -43,8 +43,10 @@
 
 /*Actions*/
 #actions-section {
-    background: rgb(60, 76, 86);
-    min-height: 450px;
+    background-image: url('../img/road-image.png');
+    background-size: 100% 100%;
+    background-color: rgb(60, 76, 86);
+    min-height: 458px;
     padding-top: 100px;
     height: 100%;
 
