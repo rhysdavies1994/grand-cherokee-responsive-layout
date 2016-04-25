@@ -1,0 +1,23 @@
+/* THis is an exmaple styleshset */
+
+h1,
+h2,
+h3,
+h4 {
+  font-family: "OpenSans-Semibold", sans-serif;
+}
+body {
+  font-family: "OpenSans-Light", sans-serif;
+}
+a {
+  color: #FFB302;
+  text-decoration: none;
+}
+a:hover,
+a:focus {
+  color: #FF9A00;
+  text-decoration: underline;
+}
+strong {
+  font-family: "OpenSans-Bold", sans-serif;
+}
