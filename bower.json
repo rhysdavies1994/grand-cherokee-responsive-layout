@@ -1,0 +1,22 @@
+{
+  "name": "grand-cherokee-responsive-layout",
+  "homepage": "https://github.com/rhysdavies1994/grand-cherokee-responsive-layout",
+  "authors": [
+    "Rhys Davies <rhysdavies1994@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.6",
+    "jquery": "^2.2.3"
+  }
+}
