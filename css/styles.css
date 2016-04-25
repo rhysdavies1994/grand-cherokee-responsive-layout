@@ -25,3 +25,7 @@ a:focus {
 strong {
     font-family: "OpenSans-Bold", sans-serif;
 }
+
+.uppercase {
+    text-transform: uppercase;
+}

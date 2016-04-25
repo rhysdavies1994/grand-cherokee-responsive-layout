@@ -6,16 +6,23 @@
 }
 
 #vehicle-title {
-
+    padding-bottom: 15px;
 }
 
 #vehicle-description {
     padding-bottom: 20px;
 }
 
+#find-dealer-button {
+    height: 35px;
+    text-align: left;
+    min-width: 150px;
+}
+
 #vehicle-terms-and-conditions {
     font-family: Arial;
     font-size: 10px;
+    padding-top: 20px;
 }
 
 /*Features*/
@@ -27,6 +34,7 @@
 
 #features-title {
     padding-left: 20px;
+    padding-bottom: 15px;
 }
 
 #features-list > li {
@@ -63,11 +71,11 @@
 }
 
 .action-link {
-    text-transform: uppercase;
     font-size: 14px;
-    vertical-align: bottom;
     bottom: 0;
+    vertical-align: bottom;
     position: absolute;
     text-align: center;
     width: 100%;
+    padding-bottom: 30px;
 }
